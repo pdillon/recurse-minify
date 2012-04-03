@@ -1,0 +1,8 @@
+/** Rename to rm-settings.json **/
+{
+    "copyright":"/* Copyright(c) 2012 MyCompany */\n", //copyright inserted at top of every minified file
+    "sourcepath":"./sourcepath",
+    "destinationpath":"/destpath",
+     "bypassFolders":[],
+    "ignoreFolders": []
+}
